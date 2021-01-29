@@ -1,4 +1,4 @@
-radio.setTransmitPower(7)
 basic.forever(function () {
 	
 })
+input.rotation(Rotation.Pitch)
